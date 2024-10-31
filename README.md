@@ -1,10 +1,10 @@
 <h1 align="center">Nice to meet you 👋, I'm ZJ</h1>
 
-<p align="center">
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=30&duration=3000&pause=1000&width=435&lines=Student+%40+SIT;Cybersecurity;Web+Developer;Devops)](https://git.io/typing-svg)
 
-</p>
+</div>
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=Bread7.Bread7&color=e89bdf)
 
